@@ -1,0 +1,23 @@
+{
+  "name": "hackathon",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@phosphor-icons/vue": "^2.1.6",
+    "axios": "^1.5.1",
+    "openai": "^4.11.1",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.69.0",
+    "sass-loader": "^13.3.2",
+    "vite": "^4.4.5"
+  }
+}
